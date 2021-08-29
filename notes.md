@@ -23,3 +23,4 @@ or
      def __str__(self):
         return self.primaryField
 
+pip install djangorestframework-simplejwt
